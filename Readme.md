@@ -1,3 +1,8 @@
+contract address: 0x880693427339c61a73d4eef499c11ee05105bfb84a1c6624080c2c65f5c146f2
+screenshot: ![image](https://github.com/user-attachments/assets/5f8245de-f9d6-401c-87f6-380f0d2baf60)
+
+
+
 # RewardSystem Smart Contract
 
 ## Vision
